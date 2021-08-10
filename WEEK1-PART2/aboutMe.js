@@ -52,10 +52,10 @@ if (pets < allowedPets) {
   console.log('I can have more pets');
 } else if
   (pets = allowedPets) {
-  console.log('I have enough pets');
+  console.log('Oh no, I have enough pets');
 } else {
    (pets > allowedPets)
-   console.log('I have too many pets');
+   console.log('Oh no, I have too many pets');
 }
 
 // STRETCH GOALS:
